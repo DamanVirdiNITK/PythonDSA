@@ -1,7 +1,7 @@
 1207. Unique Number of Occurrences
     def uniqueOccurrences(self, arr: List[int]) -> bool:
         
-        #**Dict to count the occurances of each element**
+        **Dict to count the occurances of each element**
         countdict = {}
         for i in arr:
             if i in countdict:
