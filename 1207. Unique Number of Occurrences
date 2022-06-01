@@ -21,3 +21,6 @@
                 
             
         
+#SECOND WAY
+        myDict = Counter(arr)
+        return len(myDict.values()) == len(set(myDict.values()))     
