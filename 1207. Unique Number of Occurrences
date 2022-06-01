@@ -24,3 +24,13 @@
 #SECOND WAY
         myDict = Counter(arr)
         return len(myDict.values()) == len(set(myDict.values()))     
+
+#THIRD WAY
+        #list to check values
+        valuecheck = []
+        
+        #iterate through distinct values
+        for item in set(arr):
+            valuecheck.append(arr.count(item))
+        
+        return(len(valuecheck) == len(set(valuecheck)))
