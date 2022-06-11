@@ -9,3 +9,4 @@
 1207. Unique Number of Occurrences
 1748. Sum of Unique Elements
 1832. Check if the Sentence Is Pangram
+2235. Add Two Integers
