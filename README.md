@@ -1,5 +1,6 @@
 # PythonDSA
 125. Valid Palindrome
+136. Single Number
 219. Contains Duplicate II
 345. Reverse Vowels of a String
 412. Fizz Buzz
