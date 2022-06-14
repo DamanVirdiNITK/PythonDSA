@@ -11,6 +11,7 @@
 557. Reverse Words in a String III
 884. Uncommon Words from Two Sentences
 1207. Unique Number of Occurrences
+1732. Find the Highest Altitude
 1748. Sum of Unique Elements
 1832. Check if the Sentence Is Pangram
 2235. Add Two Integers
