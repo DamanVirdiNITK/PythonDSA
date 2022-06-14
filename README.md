@@ -3,6 +3,7 @@
 136. Single Number
 137. Single Number II
 219. Contains Duplicate II
+260. Single Number III
 345. Reverse Vowels of a String
 412. Fizz Buzz
 441. Arranging Coins
