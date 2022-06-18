@@ -7,3 +7,10 @@ class Solution:
             if flag == 1 and word == 'a':
                 return False
         return True
+
+#Second Approach
+        return (''.join(sorted(list(s))))==s
+
+#Third Approach
+def checkString(self, s: str) -> bool:
+        return "ba" not in s
