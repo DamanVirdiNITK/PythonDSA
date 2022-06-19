@@ -8,6 +8,7 @@
 412. Fizz Buzz
 441. Arranging Coins
 500. Keyboard Row
+520. Detect Capital
 557. Reverse Words in a String III
 645. Set Mismatch
 709. To Lower Case
