@@ -1,0 +1,13 @@
+#Method 1:
+class Solution:
+    def halvesAreAlike(self, s: str) -> bool:
+        half = len(s)/2
+        temp = 0
+        for i in range(0, len(s)):
+            if s[i] in ['a','e','i','o','u','A','E','I','O','U']:
+                if i<half:
+                    temp+=1
+                else:
+                    temp -=1
+        return temp == 0
+                    
