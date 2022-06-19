@@ -8,6 +8,11 @@ class Solution:
             else:
                 result.append(word.title())
         return (' '.join(result))
+        
+        
+        
+ #2nd Method
+         return ' '.join([word.lower() if len(word)<3 else word.title() for word in title.split()])
 
             
         
