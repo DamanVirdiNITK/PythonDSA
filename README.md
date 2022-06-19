@@ -15,6 +15,7 @@
 884. Uncommon Words from Two Sentences
 1207. Unique Number of Occurrences
 1295. Find Numbers with Even Number of Digits
+1374. Generate a String With Characters That Have Odd Counts
 1662. Check If Two String Arrays are Equivalent
 1732. Find the Highest Altitude
 1748. Sum of Unique Elements
