@@ -19,4 +19,5 @@
 1748. Sum of Unique Elements
 1832. Check if the Sentence Is Pangram
 2124. Check if All A's Appears Before All B's
+2129. Capitalize the Title
 2235. Add Two Integers
