@@ -21,6 +21,7 @@
 1732. Find the Highest Altitude
 1748. Sum of Unique Elements
 1832. Check if the Sentence Is Pangram
+1941. Check if All Characters Have Equal Number of Occurrences
 2124. Check if All A's Appears Before All B's
 2129. Capitalize the Title
 2185. Counting Words With a Given Prefix
