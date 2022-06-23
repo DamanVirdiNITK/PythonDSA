@@ -7,6 +7,7 @@
 260. Single Number III
 345. Reverse Vowels of a String
 412. Fizz Buzz
+415. Add Strings
 441. Arranging Coins
 500. Keyboard Row
 520. Detect Capital
