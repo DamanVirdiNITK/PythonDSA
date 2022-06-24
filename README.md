@@ -18,6 +18,7 @@
 1207. Unique Number of Occurrences
 1295. Find Numbers with Even Number of Digits
 1374. Generate a String With Characters That Have Odd Counts
+1550. Three Consecutive Odds
 1662. Check If Two String Arrays are Equivalent
 1704. Determine if String Halves Are Alike
 1732. Find the Highest Altitude
