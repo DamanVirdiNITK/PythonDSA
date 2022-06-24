@@ -2,3 +2,6 @@
             if arr[num]%2 and arr[num+1]%2 and arr[num+2]%2 :
                 return True
         return False
+
+#Second Method
+        return '111' in ''.join([str(i%2)for i in arr ]) 
