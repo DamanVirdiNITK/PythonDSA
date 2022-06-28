@@ -1,4 +1,5 @@
 # PythonDSA
+1. Two Sum
 69. Sqrt(x)
 125. Valid Palindrome
 136. Single Number
