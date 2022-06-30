@@ -13,6 +13,7 @@
 500. Keyboard Row
 520. Detect Capital
 557. Reverse Words in a String III
+561. Array Partition I
 645. Set Mismatch
 709. To Lower Case
 884. Uncommon Words from Two Sentences
